@@ -31,7 +31,9 @@ A sleek and interactive dashboard for trending articles. Fetches RSS/API data, s
 
 Check out the live app: [Trendboard Live](https://trendboard-newsroom.vercel.app/)
 
-![Trendboard Screenshot]([https://ibb.co/Gf12TqQz])
+![Trendboard Web App](assets/webapp.png)
+![Trendboard mobile ver](assets/mobilever.png)
+[![Watch Demo Video]()](assets/demo.mp4)
 
 *Your Trendboard dashboard in action.*
 
