@@ -1,7 +1,6 @@
 # 🌟 Trendboard
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://trendboard-newsroom.vercel.app/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 A sleek and interactive dashboard for trending articles. Fetches RSS/API data, summarizes content using AI, and displays it in a beautiful, filterable news feed. Includes charts for topic frequency for extra insights.
 
@@ -32,7 +31,7 @@ A sleek and interactive dashboard for trending articles. Fetches RSS/API data, s
 
 Check out the live app: [Trendboard Live](https://trendboard-newsroom.vercel.app/)
 
-![Trendboard Screenshot](https://user-images.githubusercontent.com/yourusername/placeholder-screenshot.png)  
+![Trendboard Screenshot](https://ibb.co/SDWnR3hg)  
 *Your Trendboard dashboard in action.*
 
 ---
