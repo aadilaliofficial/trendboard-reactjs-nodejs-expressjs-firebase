@@ -5,7 +5,7 @@ import { db } from "../firebase";
 
 const summarizeText = async (text) => {
   try {
-    const res = await fetch("https://trendboard-reactjs-nodejs-expressjs.onrender.com", {
+    const res = await fetch("https://trendboard-reactjs-nodejs-expressjs.onrender.com/summarize", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ text }),
@@ -61,4 +61,5 @@ export const getNewsFromFirestore = async () => {
   querySnapshot.forEach((doc) => data.push({ id: doc.id, ...doc.data() }));
   return data;
 };
+
 
